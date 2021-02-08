@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/yaduvanshi777/Comment-detector-and-Remover-in-C-Lang/blob/master/temp/c-logo.png">
+<img align="right" src="https://raw.githubusercontent.com/yaduvanshi777/Comment-Remover-in-C/main/temp/c-logo.png">
 
 ## Comment-Remover-In
 <br>
