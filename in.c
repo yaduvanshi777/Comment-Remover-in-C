@@ -5,10 +5,10 @@
 
 this is m.. com
 */
-int main(){	// start
-	cout<<"Hello World\n";
-	return 0;
-	// done 
+int main() { // start
+    cout << "Hello World\n";
+    return 0;
+    // done 
 }
 
 // thank you
