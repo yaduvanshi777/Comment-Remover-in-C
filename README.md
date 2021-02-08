@@ -4,11 +4,19 @@
 <br>![C/C++ CI](https://github.com/yaduvanshi777/Comment-Remover-in-C/workflows/C/C++%20CI/badge.svg) &nbsp;&nbsp;&nbsp;&nbsp;![C/C++ CI](https://github.com/yaduvanshi777/Comment-Remover-in-C/workflows/C/C++%20CI/badge.svg?branch=main&event=issues)
 <br>![C/C++ CI](https://github.com/yaduvanshi777/Comment-Remover-in-C/workflows/C/C++%20CI/badge.svg?branch=main&event=release)
 
+
+
+
 ### C/C++ and Java comment eliminator
 
+## How to run in linux/MacOS
+```
+gcc comment_wiper.c
+./a.out
+```
  
- 
- ## in.c
+ ## Input 
+ ### in.c
  
     /// this is c program to remove the comment
     #include<stdio.h>
@@ -23,7 +31,8 @@
     // thank you
     
     
-  ## out.c
+  ## Output
+  ### out.c
   
     #include<stdio.h>
     int main(){
