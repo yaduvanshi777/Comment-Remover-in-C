@@ -1,0 +1,21 @@
+name: C/C++ CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: running gcc on comment_wiper.c 
+      run: gcc comment_wiper.c
+    - name: printing in.c
+      run: cat in.c
+    - name: printing out.c 
+      run: cat out.c
