@@ -1,8 +1,8 @@
 <img align="right" src="https://raw.githubusercontent.com/yaduvanshi777/Comment-Remover-in-C/main/temp/c-logo.png">
 
 ## Comment-Remover-In
-<br>
-<br>
+<br>![C/C++ CI](https://github.com/yaduvanshi777/Comment-Remover-in-C/workflows/C/C++%20CI/badge.svg) &nbsp;&nbsp;&nbsp;&nbsp;![C/C++ CI](https://github.com/yaduvanshi777/Comment-Remover-in-C/workflows/C/C++%20CI/badge.svg?branch=main&event=issues)
+<br>![C/C++ CI](https://github.com/yaduvanshi777/Comment-Remover-in-C/workflows/C/C++%20CI/badge.svg?branch=main&event=release)
 
 ### C/C++ and Java comment eliminator
 
