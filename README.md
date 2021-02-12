@@ -17,7 +17,7 @@ gcc comment_wiper.c
  
  ## Input 
  ### in.c
- 
+```cpp 
     /// this is c program to remove the comment
     #include<stdio.h>
     /* start of main() func
@@ -29,13 +29,15 @@ gcc comment_wiper.c
 	      // done 
     }
     // thank you
-    
+```    
     
   ## Output
   ### out.c
   
-    #include<stdio.h>
-    int main(){
-       cout<<"Hello World\n";
-	      return 0;
-	   }
+```cpp  
+#include<stdio.h>
+int main(){
+    cout<<"Hello World\n";
+    return 0;
+}
+```
