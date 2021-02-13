@@ -11,8 +11,8 @@
 
 ## How to run in linux/MacOS
 ```
-gcc comment_wiper.c
-./a.out
+gcc comment_wiper.c -o a
+./a
 ```
  
  ## Input 
